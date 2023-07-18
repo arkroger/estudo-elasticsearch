@@ -158,5 +158,3 @@ curl -H "Content-Type: application/json" -XGET http://localhost:9200/series/_sea
         } 
 	 }	
 }'
-
-#Flattened Datatype
